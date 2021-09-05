@@ -1,1 +1,2 @@
-# bmi500
+# BMI 500 assignments
+
